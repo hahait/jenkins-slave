@@ -1,4 +1,4 @@
-FROM centos:7.9.2009
+FROM hahait/centos7.9:20201222
 
 USER root
 
