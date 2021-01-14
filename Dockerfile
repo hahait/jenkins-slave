@@ -1,4 +1,4 @@
-FROM registry.cn-shenzhen.aliyuncs.com/cloudstore-dev/centos7.9:20201222 
+FROM centos:7.9.2009
 
 USER root
 
